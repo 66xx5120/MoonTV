@@ -101,12 +101,7 @@
     }
   },
     "custom_category": [
-    {
-      "name": "国产动漫",
-      "type": "movie",
-      "query": "国产动漫"
-    },
-    {
+     {
       "name": "动漫",
       "type": "movie",
       "query": "动漫"
